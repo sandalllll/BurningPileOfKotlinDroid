@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Information</string>
+    <string name="full_name">Дмитриев А. В.</string>
+    <string name="title">студент</string>
+    <string name="phone">+79876543210</string>
+    <string name="youtube">sandAllik</string>
+    <string name="susmail">sandal@susmail.com</string>
+</resources>
