@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="pieter_bruegel_the_elder">Pieter Bruegel the Elder</string>
+    <string name="the_tower_of_babel">The Tower of Babel</string>
+    <string name="the_harvesters">The Harvesters</string>
+    <string name="hieronymus_bosch">Hieronymus Bosch</string>
+    <string name="the_hay_wagon">The Hay Wagon</string>
+    <string name="death_and_the_miser">Death and the Miser</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
