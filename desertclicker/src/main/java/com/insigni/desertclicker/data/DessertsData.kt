@@ -3,7 +3,7 @@ package com.insigni.desertclicker.data
 import com.insigni.desertclicker.R
 import com.insigni.desertclicker.model.Dessert
 
-val allDesserts = listOf(
+val allDesserts = arrayOf(
     Dessert(R.drawable.cupcake, 5, 0),
     Dessert(R.drawable.donut, 10, 5),
     Dessert(R.drawable.eclair, 15, 20),
