@@ -185,3 +185,13 @@ val allWords: Set<String> =
         "zone",
         "zeal"
     )
+
+fun getUnscrambledWord(v: String) : String
+{
+    for (i in allWords)
+    {
+        if (i.toCharArray().sorted().distinct().joinToString("") == v.toCharArray().sorted().distinct().joinToString(""))
+            return i;
+    }
+    return ""
+}
