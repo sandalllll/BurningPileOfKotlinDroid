@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Мой город</string>
+    <string name="categories">Категории</string>
+    <string name="places">Места</string>
+    <string name="cat_restaurants">Рестораны</string>
+    <string name="cat_parks">Парки</string>
+    <string name="cat_coffee_shops">Кофейни</string>
+    <string name="cat_cinemas">Кинотеатры</string>
+    <string name="cat_shopping_centers">Торговые центры</string>
+    <string name="go_back">Назад</string>
+
+    <string name="rst_hrt">Harat\'s Pub</string>
+    <string name="rst_hrt_desc">Какой-то там паб, не знаю ни разу там не был.</string>
+    <string name="rst_beb">Бе-бе</string>
+    <string name="rst_beb_desc">Какой-то этнически стилизированный ресторан, или нет, не знаю.</string>
+    <string name="rst_kaz">Казан</string>
+    <string name="rst_kaz_desc">Какая-то этнически стилизированная забегаловка, или нет, не знаю.</string>
+    <string name="par_juj">Парк Жукова</string>
+    <string name="par_juj_desc">Парк. Много техники. Страшно.</string>
+    <string name="par_antsh">Парк Антошка.</string>
+    <string name="par_antsh_desc">Прекольно. Кормил уток там.</string>
+    <string name="par_kuz">Кузбасский парк.</string>
+    <string name="par_kuz_desc">Деревья высажены забавно. Храм рядом - радостно.</string>
+    <string name="cof_rst">Ростерия</string>
+    <string name="cof_rst_desc">Какая-то кофейня, не знаю ни разу там не был.</string>
+    <string name="cof_sdj">Sadj</string>
+    <string name="cof_sdj_desc">Какая-то кофейня, не знаю ни разу там не был. (Sadge)</string>
+    <string name="cof_mus">Muus</string>
+    <string name="cof_mus_desc">Какая-то смешная кофейня, не знаю ни разу там не был.</string>
+    <string name="cin_ksm">Космос</string>
+    <string name="cin_ksm_desc">Какой-то кинотеатр, не знаю ни разу там не был, космокса навеное нет.</string>
+    <string name="cin_ubi">Юбилейный</string>
+    <string name="cin_ubi_desc">Какой-то кинотеатр, не знаю ни разу там не был.</string>
+    <string name="cin_kuz">Кузбасскино</string>
+    <string name="cin_kuz_desc">Какой-то кинотеатр, не знаю ни разу там не был.</string>
+    <string name="tz_merk">Меркурий</string>
+    <string name="tz_merk_desc">Много всякого. Шнурки покупал там.</string>
+    <string name="tz_7">Семёрка</string>
+    <string name="tz_7_desc">Много всякого. Расположен по адресу дом 7 - совпадение?</string>
+    <string name="tz_many">Я и прочие</string>
+    <string name="tz_many_desc">Огромные ангары со всяким</string>
+</resources>
